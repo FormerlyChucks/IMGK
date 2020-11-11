@@ -1,4 +1,4 @@
-# MGKBios ![](https://i.imgur.com/pTqld0d.png)
+# MGKBios ![](https://i.imgur.com/EARWHAF.png)
 
 A simple bot to update your Imgur bio.
 
