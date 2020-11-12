@@ -24,6 +24,6 @@ A simple bot to update your Imgur bio with a random Machine Gun Kelly song lyric
 ## About
 
 - Lines 1-27 in lines.txt are from "Tickets to My Downfall"
-- Lines 28-30 are from "Binge"
-- Lines 31-42 are from "Hotel Diablo"
-- Lines 43-50 are miscellaneous
+- Lines 28-38 are from "Binge"
+- Lines 39-50 are from "Hotel Diablo"
+- Lines 50-58 are miscellaneous
