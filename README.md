@@ -1,4 +1,4 @@
-# MGKBios ![](https://i.imgur.com/EARWHAF.png)
+# MGKBios
 
 A simple bot to update your Imgur bio with a random Machine Gun Kelly song lyric.
 
