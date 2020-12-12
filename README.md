@@ -12,7 +12,7 @@ A simple bot to update your Imgur bio with a random Machine Gun Kelly song lyric
 
     cd IMGK
     
-### Edit config.py:
+### Edit main.py:
 
 - Replace "\<username>" with your Imgur username
 - Replace "\<token>" with your Imgur token
