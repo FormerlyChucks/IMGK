@@ -6,7 +6,7 @@ A simple bot to update your Imgur bio with a random Machine Gun Kelly song lyric
 
 ### Clone the repo:
 
-    git clone https://github.com/IThinkImOKAY/IMGK
+    git clone https://github.com/HotelDiablo/IMGK
 
 ### Change into the directory:
 
