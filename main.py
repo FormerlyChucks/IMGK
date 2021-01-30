@@ -1,7 +1,10 @@
 import time, config, random, requests, traceback
 
-url = 'https://api.imgur.com/3/account/<username>/settings'
-headers = {'Authorization': 'Bearer <token>'}
+USERNAME = 'your username'
+API_TOKEN = 'your api token'
+
+url = 'https://api.imgur.com/3/account/{}/settings'.format(USERNAME)
+headers = {'Authorization': 'Bearer {}'.format(API_TOKEN)}
 
 while True:
     try:
