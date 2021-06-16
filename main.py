@@ -1,4 +1,4 @@
-import time, config, random, requests, traceback
+import time, random, requests, traceback
 
 USERNAME = 'your username'
 API_TOKEN = 'your api token'
